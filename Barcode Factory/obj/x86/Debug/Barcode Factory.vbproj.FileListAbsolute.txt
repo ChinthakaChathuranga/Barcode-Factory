@@ -1,0 +1,13 @@
+F:\Projects\VB\Barcode Factory\Barcode Factory\bin\Debug\Barcode Factory.exe
+F:\Projects\VB\Barcode Factory\Barcode Factory\bin\Debug\Barcode Factory.pdb
+F:\Projects\VB\Barcode Factory\Barcode Factory\bin\Debug\Barcode Factory.xml
+F:\Projects\VB\Barcode Factory\Barcode Factory\obj\x86\Debug\Barcode_Factory.Form1.resources
+F:\Projects\VB\Barcode Factory\Barcode Factory\obj\x86\Debug\Barcode_Factory.Resources.resources
+F:\Projects\VB\Barcode Factory\Barcode Factory\obj\x86\Debug\Barcode Factory.vbproj.GenerateResource.Cache
+F:\Projects\VB\Barcode Factory\Barcode Factory\obj\x86\Debug\Barcode Factory.exe
+F:\Projects\VB\Barcode Factory\Barcode Factory\obj\x86\Debug\Barcode Factory.xml
+F:\Projects\VB\Barcode Factory\Barcode Factory\obj\x86\Debug\Barcode Factory.pdb
+F:\Projects\VB\Barcode Factory\Barcode Factory\bin\Debug\messagingtoolkit.barcode.dll
+F:\Projects\VB\Barcode Factory\Barcode Factory\obj\x86\Debug\Barcode Factory.vbprojResolveAssemblyReference.cache
+F:\Projects\VB\Barcode Factory\Barcode Factory\bin\Debug\WebCam_Capture.dll
+F:\Projects\VB\Barcode Factory\Barcode Factory\bin\Debug\MessagingToolkit.QRCode.dll
